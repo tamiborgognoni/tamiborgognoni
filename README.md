@@ -2,9 +2,9 @@
 <img src="https://i.ibb.co/1r6DpDZ/hello-dev.png" alt="hello-dev" border="0">
 </div>
 
-:computer: Desenvolvedora Front-End Jr <br>
+:computer: Desenvolvedora Front-End Jr. <br>
 :books: Estou me aperfeiçoando em JavaScript. <br>
- :hearts: Sou apaixonada por programação <br><br>
+ :hearts: Sou apaixonada por programação. <br><br>
 
 <div>
 
