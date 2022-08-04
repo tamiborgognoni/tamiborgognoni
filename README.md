@@ -20,8 +20,8 @@
 
 <p align="center">
 <a href="https://github.com/tamiborgognoni">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamiborgognoni&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamiborgognoni&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamiborgognoni&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamiborgognoni&layout=compact&langs_count=8&theme=omni"/>
 </a>
 </p>
 
