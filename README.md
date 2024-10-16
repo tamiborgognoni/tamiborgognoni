@@ -2,7 +2,6 @@
 
 :computer: Desenvolvedora Front-End Jr. <br>
 :books: Estou me aperfeiçoando em JavaScript. <br>
- :hearts: Sou apaixonada por programação. <br><br>
 
 <div>
 
