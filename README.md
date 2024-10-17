@@ -3,12 +3,8 @@
 :computer: Desenvolvedora Front-End Jr. <br>
 :books: Estou me aperfeiçoando em JavaScript. <br>
 
-<div><br><br>
+<br><br>
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" />
-</div>
 <hr>
 
 <p align="center">
